@@ -23,6 +23,7 @@ Curating the best open-source alternatives for famous apps.
 - [Hubspot](#hubspot)
 - [Intercom](#intercom)
 - [Instagram](#instagram)
+- [Linktree](#linktree)
 - [Npm](#npm)
 - [Netlify](#netlify)
 - [Quizlet](#quizlet)
@@ -141,6 +142,11 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Instagram](https://instagram.com)
 - [Pixelfed](https://github.com/pixelfed)
+
+### [Linktree](https://linktr.ee/)
+- [LinkStack](https://github.com/LinkStackOrg/LinkStack)
+- [LittleLink](https://github.com/sethcottle/littlelink)
+- [Open Bio Page](https://github.com/open-bio-page/open-bio-page)
 
 ### [Npm](https://www.npmjs.com)
 - [Verdaccio](https://github.com/verdaccio)
